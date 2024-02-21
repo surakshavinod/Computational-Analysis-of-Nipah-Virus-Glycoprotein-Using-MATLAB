@@ -10,4 +10,4 @@ Phylogenetic analysis was done to establish a phylogenetic relationship.
 1. This was my first time using MATLAB. Through this project, I have developed a sense of familiarity with the the MATLAb interface and working.
 2. Visualisation and interpretation of theoretical learnings.
 # Note
-I have referred many papers and sites including matlabworks and computationalgenomics to perform this computational analysis. Huge thanks to my course professor as well.
+I have referred many papers and sites including [matlabworks](https://www.mathworks.com/help/bioinfo/) and [computationalgenomics](https://computationalgenomics.blogs.bristol.ac.uk/case_studies/birdflu_demo) to perform this computational analysis. Huge thanks to my course professor, Dr. Prashantha Karunakar, for his guidance.
